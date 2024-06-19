@@ -1,4 +1,3 @@
-// src/components/ImageUpload.js
 import React, { useState } from 'react';
 import { useDropzone } from 'react-dropzone';
 import { motion } from 'framer-motion';
