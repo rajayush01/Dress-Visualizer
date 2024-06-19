@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from 'react';
 import ImageUpload from './components/ImageUpload';
 import ImagePreview from './components/ImagePreview';
